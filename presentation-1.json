@@ -1,0 +1,102 @@
+{
+  "slides": [
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "markdown": "# HI !\n\n\n### Those are some \n##awesome \n###**computer Science**\n###books I read\n",
+      "x": 371,
+      "y": 180,
+      "background": "bg-solid-smoke"
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "markdown": "\n####I hope they could give you some joy when learning CS :)\n\n#are\n#you\n#ready?",
+      "x": 654,
+      "y": 178,
+      "background": "bg-solid-smoke"
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "markdown": "#C language\n\n\nFirst, learn a low-level language to understand the serect of computer, so\n\n\n###[the C programming language](http://www.amazon.cn/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80-%E5%85%8B%E5%B0%BC%E6%B1%89/dp/B0011C9OMG/ref=sr_1_3?s=books&ie=UTF8&qid=1440862032&sr=1-3&keywords=c%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80)\n\n######*by* Brian W.Kernighan & Dennis M.Ritchie\n\n\nis what you'd better read.",
+      "x": 371,
+      "y": 518,
+      "surface": "bg-surf-grad-light",
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0.09,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "markdown": "#C++ language\n\nThen, why not continue to learn relatives of C language's:)\n\n\nI strongly recommed a book named\n\n###[C++ primer](http://www.amazon.cn/C-Primer-%E6%9D%8E%E6%99%AE%E6%9B%BC/dp/B00CE43I04/ref=sr_1_3?s=books&ie=UTF8&qid=1440862471&sr=1-3&keywords=c+primer)\n\n######*by* Stanley B.Lippman & Josee Lajoie & Barbara E.Moo\n\nOh maybe it's a fat book...\n",
+      "x": 658,
+      "y": 523
+    },
+    {
+      "components": [],
+      "z": null,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": true,
+      "markdown": "#Computer system\n\nSO it's time to learn something else to connect language\n\nand real operating system\n\n###[Computer Systems：A Programmer's Perspective](http://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F-%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9/dp/B004N85EKG)\n\n######*by* Randal E.Bryant & David R.O'Hallaron\n\nFrankly I'm reading it now",
+      "x": 503,
+      "y": 438
+    }
+  ],
+  "background": "bg-solid-light",
+  "activeSlide": {
+    "components": [],
+    "z": null,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 4,
+    "selected": false,
+    "active": true,
+    "markdown": "#Computer system\n\nSO it's time to learn something else to connect language\n\nand real operating system\n\n###[Computer Systems：A Programmer's Perspective](http://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F-%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9/dp/B004N85EKG)\n\n######*by* Randal E.Bryant & David R.O'Hallaron\n\nFrankly I'm reading it now",
+    "x": 503,
+    "y": 438
+  },
+  "fileName": "presentation-1",
+  "surface": "bg-surf-grad-light",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 514.5,
+  "overviewY": 350.5
+}
